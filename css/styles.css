@@ -1,0 +1,135 @@
+
+body{
+  background-color: #E4F9F5;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr{
+  border-style: dotted none none none;
+  border-color: #EAF6F6;
+  border-width: 10px;
+  width: 5%;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a{
+  color: #11999E;
+}
+
+.aProgrammer{
+  font-weight: normal;
+}
+
+.top-container{
+  position: relative; /*This is so the cloud can be relative to the background instead of the body */
+  padding-top: 100px;
+  margin-bottom: 800px;
+}
+
+.profile{
+  margin: 100px auto 150px auto;
+}
+
+.class{
+  margin: auto auto 150px auto;
+}
+
+.row{
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.Pic1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Pic2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.cloud1{
+  position: absolute;
+  right: 300px; /*this is a margin */
+  top: 50px;
+}
+
+.cloud2{
+  position: absolute;
+  left: 300px;
+  top: 400px;
+}
+
+.plane1{
+  position: absolute;
+  right: 600px; /*this is a margin */
+  top: 400px;
+}
+
+.bird1{
+  position: relative;
+  right: 100px;
+  top: 35px;
+}
+
+.bird2{
+  position: relative;
+  left: 100px;
+  bottom: 35px;
+}
+
+/* .contact-me{
+  margin-top: auto;
+} */
+
+.bottom-container{
+  margin-top: 25px;
+}
+
+a{
+  margin: 15px 15px 15px 15px;
+}
+
+.tag{
+  margin-top: 200px;
+}
+
+
+
+
+
+/* birds: <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+   planes: <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+   clouds: <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+   sun: <div>Icons made by <a href="https://www.flaticon.com/authors/good-ware" title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+   computer1: <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+   computer2: <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+   webdev: <div>Icons made by <a href="https://www.flaticon.com/authors/nhor-phai" title="Nhor Phai">Nhor Phai</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+   appdev: <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+   education: <div>Icons made by <a href="https://www.flaticon.com/authors/surang" title="surang">surang</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+   me: <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+   */
